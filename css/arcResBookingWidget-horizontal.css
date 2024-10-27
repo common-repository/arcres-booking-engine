@@ -1,0 +1,86 @@
+#arcResBookingWidgetContainer input{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	line-height: 10px;
+	margin-bottom: 20px;
+	color: #fff;
+	background-color: #5B9DFF;
+}
+
+.arcResBookingWidget{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}
+
+.arcResInlineBookingSelect{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	background-color: #5B9DFF;
+	color: #fff;
+}
+
+.arcResInlineBookingTextBox{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}
+
+.arcResInlineBookingSubmit{
+	border: 1px solid #2E3092;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	background-color:#5B9DFF;
+	color: #fff;
+	padding: 3px;
+	margin-top: 18px;
+}
+
+.arcResBookingWidget div{
+	margin-bottom: 2px;
+}
+
+.arcResBookingIntro{
+	padding-bottom: 5px;
+	display: none;	
+}
+
+.arcResBookingIntroHeader{
+	font-weight: bold;
+}
+
+.arcResArrivalDate{
+	float: left;	
+	text-align: center;
+}
+
+.arcResNights{
+	float: left;
+	margin-left: 30px;
+	text-align: center;
+}
+
+.arcResAdults{
+	float: left;
+	margin-left: 30px;
+	text-align: center;
+}
+
+.arcResChildren{
+	float: left;
+	margin-left: 30px;
+	text-align: center;
+}
+
+.arcResSubmitButton{
+	float:left;	
+	padding-top: 5px;	
+}
+
+/* if multiple properties */
+.arcResPropertyLabel{
+	margin-top: 5px;
+}
+
+.arcResInlinePropertySelect{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}
